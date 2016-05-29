@@ -1,3 +1,2 @@
 # Jaap
-Archiving program
-All it is
+Just Another Archiving Program
